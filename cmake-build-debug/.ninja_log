@@ -1,0 +1,19 @@
+# ninja log v5
+10	235	6978408122011122	CMakeFiles/demo.dir/demo/main.cpp.obj	737f0536cde2529c
+5	905	6984361121705528	CMakeFiles/template.dir/sources/example.cpp.obj	b0ddff8b42f2ef9f
+15	662	6978408126231291	CMakeFiles/demo.dir/sources/ForwerdList.cpp.obj	5f131dd57092b5ec
+704	801	6984362668156603	libtemplated.a	c8b5623de3ae6acb
+780	1038	6978408129991839	demo.exe	e786361d444c683b
+12	1077	6984361123460090	CMakeFiles/template.dir/sources/ForwerdList.cpp.obj	cd0ffb84ce398e8e
+5	692	6984362667059555	CMakeFiles/template.dir/sources/Queue.cpp.obj	a8b4723547c3987b
+37	1021	6984361122862441	CMakeFiles/tests.dir/sources/ForwerdList.cpp.obj	7247d8da474ba4e8
+11	2136	6978408261203927	CMakeFiles/tests.dir/tests/example.cpp.obj	5eea91b31c13616a
+576	3852	6984361814751782	tests.exe	de5663f917cbfbff
+906	1437	6984361127072485	CMakeFiles/tests.dir/sources/Stack.cpp.obj	178ce43c44302ca
+18	1027	6984361122922277	CMakeFiles/template.dir/sources/Stack.cpp.obj	c98fe9bae245d094
+15	704	6984362667179211	CMakeFiles/template.dir/sources/main.cpp.obj	def087cbb421a4de
+5	4143	6984364011382445	build.ninja	fda2e48be44b9078
+22	727	6984362667398631	CMakeFiles/tests.dir/sources/main.cpp.obj	48404e8a8699c627
+4	4293	6984364011382445	build.ninja	fda2e48be44b9078
+3	107	6984364013641185	libtemplated.a	49c1573dfebbb14e
+107	3383	6984364046245671	tests.exe	de5663f917cbfbff
